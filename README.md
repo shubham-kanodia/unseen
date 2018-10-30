@@ -1,4 +1,4 @@
-# unseen
+# Unseen
 ## About
 This is an app for visually challenged people, which enables them to hear any text file.
 
